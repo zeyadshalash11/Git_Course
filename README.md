@@ -1,4 +1,4 @@
 # Git_Course
 for course
 
-##project notes
+## Project Notes
